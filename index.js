@@ -77,14 +77,14 @@ async function connectToWA() {
 
 🧾 *PROFILE INFORMATION*
 ┌──────── ⋆⋅☆⋅⋆ ────────┐
-│ 🔐 *Owner:* Danuka Disanayaka  
-│ 👤 *Botname:* DANUWA-MD  
+│ 🔐 *Owner:* IMALSHA RANDIP 
+│ 👤 *Botname:* IMA-RED-MD  
 │ ⚡ *Bio:* Powerful WhatsApp Bot  
 │ 🧩 *Role:* Wizard Lord 🧙‍♂️  
 └──────── ⋆⋅☆⋅⋆ ────────┘
 
-🚀 Powered By *DANUKA*
-*DISANAYAKA* 🔥
+🚀 Powered By *IMALSHA*
+*RANDIP* 🔥
       `;
       conn.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
         image: { url: config.ALIVE_IMG },
@@ -187,7 +187,7 @@ switch ((config.MODE || 'public').toLowerCase()) {
 }
 
 app.get("/", (req, res) => {
-  res.send("Hey, DANUWA-MD started✅");
+  res.send("Hey, IMA-RED-MD started✅");
 });
 
 app.listen(port, () => console.log(`🌐 [DANUWA-MD] Web server running → http://localhost:${port}`));
