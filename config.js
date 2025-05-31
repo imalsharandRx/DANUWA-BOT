@@ -15,10 +15,10 @@ const defaultConfig = {
   SESSION_ID: "vAJQhABQ#30q3HSw1nfYr9MZtMEFq-_9luIm9xN_Z0CO5AT7jZ1Q", // Put your session id here
   ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
   ALIVE_MSG: "*Hello👋 BOT Is Alive Now😍*", // Change alive msg from here
-  OPENAI_API_KEY: "",// Add OPENAI API key here
-  GEMINI_API_KEY: "", // Add Gemini API key here
-  REMOVE_BG_API_KEY:"", // Add removebg API key here
-  WEATHER_API_KEY: "", // Add your weather API key here
+  OPENAI_API_KEY: "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",// Add OPENAI API key here
+  GEMINI_API_KEY: "AIzaSyDOoEfZKwArn2Bl87NI9kk--JsVzoUIoUg", // Add Gemini API key here
+  REMOVE_BG_API_KEY:"y1iCuVyPeUJkT1B7jZAmpg9S", // Add removebg API key here
+  WEATHER_API_KEY: "968f4f3b63a9426a8c963520253105", // Add your weather API key here
   BOT_OWNER: "IMALSHA RANDIP", // Replace your bot owner number here with 94(country code)
   ownerNumber: ["94711683227"], // Replace your bot owner number here (same as bot owner number)
   AUTO_READ_STATUS: "true", // Turn on or off auto read status from here
